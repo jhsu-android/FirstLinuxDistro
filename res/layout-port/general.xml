@@ -7,7 +7,7 @@
             android:id="@+id/fragment_questions"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            class="com.jasonhsu.firstlinuxdistro.FragmentQuestions" >
+            class="com.jasonhsu.firstdistro.FragmentQuestions" >
     </fragment>
 </LinearLayout>
 
